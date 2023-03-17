@@ -4,9 +4,9 @@ OpenML Regression Bot is an AutoML Bot that runs OpenML Regression Tasks for a u
 
 ## Version requirements of seveeral packages
 
-ConfigSpace==0.4.19
-scikit_learn
-numpy==1.21.5
+ConfigSpace==0.4.19,
+scikit_learn,
+numpy==1.21.5,
 openml==0.12.2
 
 ## Architecture/Methodology
@@ -16,6 +16,7 @@ the Open Regressor Bot was developed in order to address this issue and help res
 This entire pipeline is modulated by slecting Tuned Hyperparameters from the configurational parametes , i.e., Regression Algorithm Name to perform much more effiently in less time and with almost zero extra efforts.
 
 The user defined configurational parameters arre as follows for one of the test run cases:
+
 ![Cinfig parameter 2](https://user-images.githubusercontent.com/110840050/225812534-52ba7e01-f92e-4580-a68d-5872871dcb42.png)
 
 ## Application
@@ -25,3 +26,6 @@ The potintiality of the bot in performing the runs with a lighning speed demonst
 ## Results
 
 The Bot saves the output results on the local directory as well as on OpenML server at time. The betterment in performance of the model with less number of samples only but by tuning the specified Hyperparameters. Even, with the saved Metrics the Model perfomance can be analysed.
+
+![OpenML info for ](https://user-images.githubusercontent.com/110840050/225812927-2397dacd-dbdf-4b75-bb72-ff3072782d0e.png)
+
