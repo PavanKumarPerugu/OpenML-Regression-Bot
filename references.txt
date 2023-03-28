@@ -1,0 +1,39 @@
+REFERENCES
+[ 1 ]. PavanKumarPerugu, “PavanKumarPerugu/OpenML-Regression-Bot,” GitHub, Mar. 16, 2023. https://github.com/PavanKumarPerugu/OpenML-Regression-Bot (accessed Mar. 16, 2023).
+[ 2 ]. “OpenML,” Openml.org, 2023. https://www.openml.org/ (accessed Mar. 16, 2023).
+[ 3 ]. “ISG Siegen – Intelligent Systems,” Beel.org, 2022. https://isg.beel.org/ (accessed Mar.
+16, 2023).
+[ 4 ]. “BEEL, Joeran (Head of Group) – ISG Siegen,” Beel.org, 2023.
+https://isg.beel.org/people/joeran-beel/ (accessed Mar. 16, 2023).
+[ 5 ]. F. Hutter, “Automated configuration of algorithms for solving hard computational problems,” 2017. https://www.semanticscholar.org/paper/Automated-configuration-of-
+algorithms-for-solving-Hutter/08c4fdd974d874c87ea87faa6b404a7b8eb72c73 (accessed
+Mar. 16, 2023).
+[ 6 ]. F. Hutter, “AutoML | Wrapping Up AutoML-Conf 2022 and Introducing the 2023
+Edition,” Automl.org, 2022. https://www.automl.org/automl-blog/ (accessed Mar. 16,
+2023).
+[ 7 ]. C. R. Harris et al., “Array programming with NumPy,” Nature, vol. 585, no. 7825, pp.
+357–362, Sep. 2020, doi: https://doi.org/10.1038/s41586-020-2649-2.
+[ 8 ]. J. N. van Rijn and F. Hutter, “Hyperparameter Importance Across Datasets,” Proceedings of the 24th ACM SIGKDD International Conference on Knowledge
+Discovery & Data Mining, Jul. 2018, doi: https://doi.org/10.1145/3219819.3220058.
+[ 9 ]. J. Vanschoren, J. N. van Rijn, B. Bischl, and L. Torgo, “OpenML,” ACM SIGKDD Explorations Newsletter, vol. 15, no. 2, pp. 49–60, Jun. 2014, doi:
+https://doi.org/10.1145/2641190.2641198.
+[ 10 ]. J. Bergstra, J. Ca, and Y. Ca, “Random Search for Hyper-Parameter Optimization
+Yoshua Bengio,” Journal of Machine Learning Research, vol. 13, pp. 281–305, 2012,
+Available: https://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf
+[ 11 ]. “Overview of ML Pipelines,” Google Developers, 2022.
+https://developers.google.com/machine-learning/testing-debugging/pipeline/overview
+(accessed Mar. 11, 2023).
+[ 12 ]. “1. What is Metric Learning? — metric-learn 0.6.2 documentation,” Scikit-learn.org,
+2015. http://contrib.scikit-learn.org/metric-learn/introduction.html (accessed Mar. 11, 2023).
+[ 13 ]. “logging — Logging facility for Python,” Python documentation, 2023. https://docs.python.org/3/library/logging.html (accessed Mar. 07, 2023).
+[ 14 ]. L. Breiman, Machine Learning, vol. 45, no. 1, pp. 5–32, 2001, doi: https://doi.org/10.1023/a:1010933404324.
+[ 15 ]. “sklearn.preprocessing.OneHotEncoder,” scikit-learn, 2023. https://scikit- learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEncoder.html (accessed Mar. 02, 2023).
+[ 16 ]. “sklearn.impute.SimpleImputer,” scikit-learn, 2023. https://scikit- learn.org/stable/modules/generated/sklearn.impute.SimpleImputer.html (accessed Mar. 02, 2023).
+[ 17 ]. “Argparse Tutorial,” Python documentation, 2023. https://docs.python.org/3/howto/argparse.html (accessed Feb. 10, 2023).
+[ 18 ]. “sklearn.compose.ColumnTransformer,” scikit-learn, 2023. https://scikit- learn.org/stable/modules/generated/sklearn.compose.ColumnTransformer.html (accessed Feb. 19, 2023).
+[ 19 ]. openml, “GitHub - openml/sklearn-bot: Random bot running sklearn classifiers on OpenML,” GitHub, 2023. https://github.com/openml/sklearn-bot (accessed Mar. 12, 2023). [ 20 ]. automl, “auto-sklearn/autosklearn/pipeline/components/regression at development · automl/auto-sklearn,” GitHub, Aug. 18, 2022. https://github.com/automl/auto- sklearn/tree/development/autosklearn/pipeline/components/regression (accessed Mar. 10,
+2023).
+[ 21 ]. https://www.facebook.com/kdnuggets, “Frameworks for Approaching the Machine
+Learning Process - KDnuggets,” KDnuggets, 2022. https://www.kdnuggets.com/2018/05/general-approaches-machine-learning-process.html (accessed Aug. 23, 2022).
+[ 22 ]. JetBrains, “PyCharm,” JetBrains, 2022. https://www.jetbrains.com/pycharm/ (accessed Dec. 15, 2022).
+[ 23 ]. “Academic Writing – RS_c,” Recommender-systems.com, 2013. https://recommender- systems.com/best-practice/academic-writing/ (accessed Sept. , 2022).
